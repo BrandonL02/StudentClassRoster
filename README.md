@@ -2,14 +2,12 @@
 
 ## Overview 📘
 
-This project is a C++ application built to demonstrates key competencies in C++ by developing a student management system using object-oriented design principles. The system reads, parses, stores, and manipulates student data including their ID, name, email, age, time to complete courses, and degree program.
+This project is a student management system created using C++ and object-oriented design principles. The system reads, parses, stores, and manipulates student data including their ID, name, email, age, time to complete courses, and degree program.
 
 ---
 
 ### Project Structure 📂
-bash
-Copy
-Edit
+
 /StudentRoster/
 ├── degree.h           # Enum for DegreeProgram
 ├── student.h          # Student class declaration
@@ -38,9 +36,7 @@ You were contracted by a university to migrate their existing student management
 ---
 
 ### Sample Data 🧾(studentData[])
-cpp
-Copy
-Edit
+
 const string studentData[] = {
     "A1,John,Smith,John1989@gm ail.com,20,30,35,40,SECURITY",
     "A2,Suzan,Erickson,Erickson_1990@gmailcom,19,50,30,40,NETWORK",
@@ -50,6 +46,7 @@ const string studentData[] = {
 };
 
 ### Output Screenshot 📸
+
 
 
 ---
