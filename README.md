@@ -1,4 +1,4 @@
-# Student Roster Management System – C++
+# Student Class Roster
 
 ## Overview 📘
 
