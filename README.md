@@ -9,13 +9,13 @@ This project is a student management system created using C++ and object-oriente
 ### Project Structure 📂
 
 /StudentRoster/
-├── degree.h           # Enum for DegreeProgram
-├── student.h          # Student class declaration
-├── student.cpp        # Student class implementation
-├── roster.h           # Roster class declaration
-├── roster.cpp         # Roster class implementation
-├── main.cpp           # Application entry point and functionality demonstration
-└── screenshot.png     # Screenshot of console output demonstrating functionality
+- degree.h           # Enum for DegreeProgram
+- student.h          # Student class declaration
+- student.cpp        # Student class implementation
+- roster.h           # Roster class declaration
+- roster.cpp         # Roster class implementation
+- main.cpp           # Application entry point and functionality demonstration
+- screenshot.png     # Screenshot of console output demonstrating functionality
 
 ---
 
@@ -47,7 +47,7 @@ const string studentData[] = {
 
 ### Output Screenshot 📸
 
-
+![output from sample data](https://github.com/BrandonL02/C867-PA/blob/8524136d16c8b706cfe94e611fe05fa7278bd601/output.jpg)
 
 ---
 
