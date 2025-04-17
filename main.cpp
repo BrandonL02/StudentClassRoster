@@ -10,10 +10,10 @@ using namespace std;
 int main()
 {
 
-    cout << "Course Title: C867 - SCRIPTING AND PROGRAMMING - APPLICATIONS" << endl;
+    cout << "Course Title: Course 123" << endl;
     cout << "Programming Language Used: C++ " << endl;
-    cout << "Student ID: 012518234" << endl;
-    cout << "Student Name: Brandon Latimer" << endl;
+    cout << "Student ID: 12345678 " << endl;
+    cout << "Student Name: Brandon L" << endl;
     cout << "   " << endl;
     cout << "   " << endl;
 
