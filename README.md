@@ -47,7 +47,7 @@ const string studentData[] = {
 
 ### Output Screenshot 📸
 
-![output from sample data](https://github.com/BrandonL02/C867-PA/blob/8524136d16c8b706cfe94e611fe05fa7278bd601/output.jpg)
+![output from sample data](http)
 
 ---
 
